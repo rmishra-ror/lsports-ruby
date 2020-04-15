@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.version       = LSports::VERSION
   spec.authors       = ['Rahul']
   spec.email         = ['rahulismishra@gmail.com']
-  spec.summary       = 'A Ruby interface to the RTS JSON API.'
-  spec.description   = 'A Ruby interface to the RTS JSON API.'
+  spec.summary       = 'A Ruby interface to the Lsports API.'
+  spec.description   = 'A Ruby interface to the Lsports API.'
   # spec.homepage      = 'https://github.com/rmishra-ror/rts'
   spec.license       = 'MIT'
 

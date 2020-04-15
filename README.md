@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/rmishra-ror/rts.
+Bug reports and pull requests are welcome on GitHub at https://github.com/rmishra-ror/lsports-ruby.
 
 ## License
 
